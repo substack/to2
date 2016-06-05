@@ -11,5 +11,13 @@
     "stream"
   ],
   "author": "mafintosh",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/substack/to2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/substack/to2/issues"
+  },
+  "homepage": "https://github.com/substack/to2#readme"
 }
